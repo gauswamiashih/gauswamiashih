@@ -54,11 +54,12 @@ My journey is focused on *learning by doing*, experimenting with tools, and cont
 ## 🌐 Connect With Me  
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/joshi-yagnik-41b36b31b?](https://www.linkedin.com/in/gauswami-ashish-078870293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauswami-ashish-078870293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![Email](https://img.shields.io/badge/Email-gauswamiashish760@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauswamiashish760@gmail.com)
 
 </div>
 
 ![Animation](https://raw.githubusercontent.com/IRON-M4N/IRON-M4N/output/github-contribution-grid-snake-dark.svg)
+
 
 
