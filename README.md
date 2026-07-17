@@ -17,16 +17,30 @@ Here are some ideas to get you started:
 ## 🚀 About Me  
 
 I'm a *B.Tech CE student at Ganpat University* 🇮🇳 India, on a journey into the world of  
-*DevOps, and Full-Stack Development*.
+*AI,ML, Cybersecurity and Full-Stack Development*.
 
 I’m passionate about building real-world applications, automating workflows, and learning how modern systems scale in production.  
 My journey is focused on *learning by doing*, experimenting with tools, and continuously improving my technical skills.
 
 - 🔭 Currently exploring *AWS cloud services, Ethical hacking , **Docker, **Kubernetes (basics to EKS), **CI/CD pipelines* (GitHub Actions, GitLab CI/CD), *Terraform, and **Jenkins*
+- 
 - 🌱 Always learning about *automation best practices, **DevOps workflows, **cloud-native concepts*, and new technologies
 - 👯 Looking to collaborate on *full-stack development projects, **real-time / real-world projects, and **open-source initiatives*
 - 💬 Ask me about *Python, **web development basics, and **your project ideas* (happy to discuss & help)
 - ⚡ Fun fact: I enjoy *sharing knowledge, **brainstorming ideas*, and learning with peers 🚀
+- Currently working on projects related to:
+
+⚡ Artificial Intelligence
+
+🌐 Full Stack Development
+
+☁️ Cloud & DevOps
+
+🔐 Cybersecurity
+
+🚀 Startup Products
+
+I believe the best way to learn is by building products that people can actually use.
 
 
 ## 🛠️ Tech Stack  
